@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
+My name is Ian Skelskey. I am a software engineering student at Arizona State University graduating in Fall of 2024.
+
+- 🔭 I’m currently working on ... homework for SER321.
+- 👯 I’m looking to collaborate on ... games and apps.
 <!--
 **IanSkelskey/IanSkelskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
