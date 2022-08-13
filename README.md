@@ -4,6 +4,14 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 
 - 🔭 I’m currently working on ... homework for SER321.
 - 👯 I’m looking to collaborate on ... games and apps.
+
+### Projects
+
+#### Record Store Database Application
+
+![Record Store Main App Window](screenshots/record_store/main-app-screenshot.png)
+
+
 <!--
 **IanSkelskey/IanSkelskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
