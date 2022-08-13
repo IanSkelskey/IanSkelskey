@@ -5,11 +5,8 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 - 🔭 I’m currently working on ... homework for SER321.
 - 👯 I’m looking to collaborate on ... games and apps.
 
-### Projects
-
-#### Record Store Database Application
-
-![Record Store Main App Window](screenshots/record_store/main-app-screenshot.png)
+#### Stats
+![Ian's stats](https://github-readme-stats.vercel.app/api?username=ianskelskey&show_icons=true&count_private=true)
 
 
 <!--
