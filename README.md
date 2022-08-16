@@ -14,6 +14,10 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 ![MySQL](https://user-images.githubusercontent.com/46094112/184929640-cecf1715-66ea-4f75-9373-c9c735885d4a.png)
 ![Android Studio](https://user-images.githubusercontent.com/46094112/184930278-e1b7d0b7-d936-4425-8124-6e5d3ccde392.png)
 ![Android](https://user-images.githubusercontent.com/46094112/184930367-de6c2678-c847-40de-a414-0e717625b503.png)
+![Apple](https://user-images.githubusercontent.com/46094112/184972803-d4a973a0-5462-4d10-a8fa-93d66ab05419.png)
+![AWS](https://user-images.githubusercontent.com/46094112/184972910-85478ae0-451e-423c-9c8c-fa55fb86f64f.png)
+
+
 
 
 
