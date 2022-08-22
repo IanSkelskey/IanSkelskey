@@ -7,6 +7,7 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 
 
 ## :wrench: Toolbox 
+![Windows](https://user-images.githubusercontent.com/46094112/186002605-dae9721e-6078-4d80-b6c7-9ad4412659f6.png)
 ![Git](https://user-images.githubusercontent.com/46094112/184929093-6429d947-832c-46de-a9aa-eabb9df1969a.png)
 ![Java](https://user-images.githubusercontent.com/46094112/184929223-29dae4a8-d85a-402b-a7f5-abb156eb57b1.png)
 ![Flutter](https://user-images.githubusercontent.com/46094112/184929559-84d666c6-2426-415a-a0c3-b9bbba8d65f1.png)
@@ -16,6 +17,7 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 ![Android](https://user-images.githubusercontent.com/46094112/184930367-de6c2678-c847-40de-a414-0e717625b503.png)
 ![Apple](https://user-images.githubusercontent.com/46094112/184972803-d4a973a0-5462-4d10-a8fa-93d66ab05419.png)
 ![AWS](https://user-images.githubusercontent.com/46094112/184972910-85478ae0-451e-423c-9c8c-fa55fb86f64f.png)
+![Linux](https://user-images.githubusercontent.com/46094112/186002523-a964ca12-16cd-4244-80b3-9ccf69c7df29.png)
 
 
 
