@@ -2,7 +2,7 @@
 
 My name is Ian Skelskey. I am a software engineering student at Arizona State University graduating in Summer of 2023.
 
-- 🔭 I’m currently working on ... homework for SER321.
+- 🔭 I’m currently working on ... my Capstone project.
 - 👯 I’m looking to collaborate on ... games and apps.
 
 
