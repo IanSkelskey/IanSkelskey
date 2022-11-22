@@ -7,14 +7,14 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 - 🔭 I’m currently working on ... my Capstone project.
 - 👯 I’m looking to collaborate on ... games and apps.
 
-## OS
-<p>
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows" width="50" height="50">
-  <img src="https://user-images.githubusercontent.com/46094112/184930367-de6c2678-c847-40de-a414-0e717625b503.png" alt="Android" width="50" height="50">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="50" height="50">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" alt="Ubuntu" width="50" height="50">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/apple.svg" alt="Apple" width="50" height="50">
-</p>
+> ### OS
+> <p>
+>   <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows" width="50" height="50">
+>   <img src="https://user-images.githubusercontent.com/46094112/184930367-de6c2678-c847-40de-a414-0e717625b503.png" alt="Android" width="50" height="50">
+>   <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="50" height="50">
+>   <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" alt="Ubuntu" width="50" height="50">
+>   <img src="https://github.com/get-icon/geticon/raw/master/icons/apple.svg" alt="Apple" width="50" height="50">
+> </p>
 
 ## Programming Languages
 <p>
