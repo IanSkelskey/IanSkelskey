@@ -10,44 +10,44 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 
 > ### OS
 > <p>
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/microsoft-windows.svg" alt="Windows" width="50" height="50">
 > <img src="https://user-images.githubusercontent.com/46094112/184930367-de6c2678-c847-40de-a414-0e717625b503.png" alt="Android" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" alt="Ubuntu" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/apple.svg" alt="Apple" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/debian.svg" alt="Debian" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/ubuntu.svg" alt="Ubuntu" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/apple.svg" alt="Apple" width="50" height="50">
 > </p>
 
 > ### Programming Languages
 > <p>
->     <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50" height="50">
->     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50" height="50">
->     <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="50" height="50">
->     <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50" height="50">
->     <img src="https://github.com/get-icon/geticon/raw/master/icons/dart.svg" alt="Dart" width="50" height="50">
+>     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/java.svg" alt="Java" width="50" height="50">
+>     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/javascript.svg" alt="JavaScript" width="50" height="50">
+>     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/c.svg" alt="C" width="50" height="50">
+>     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/c-plusplus.svg" alt="C++" width="50" height="50">
+>     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/dart.svg" alt="Dart" width="50" height="50">
 > </p>
 
 > ### Query Languages
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/mysql.svg" alt="MySQL" width="50" height="50">
 
 > ### IDE
 > <p>
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/intellij-idea.svg" alt="IntelliJ" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50" height="50">
 > </p>
 
 > ### Version Control
 > <p>
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50" height="50">  
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/git-icon.svg" alt="Git" width="50" height="50">  
 > </p>
 
 > ### Miscellaneous
 > <p>
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="Amazon Web Services" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="React" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="50" height="50">
-> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="NodeJS" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/aws.svg" alt="Amazon Web Services" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/flutter.svg" alt="Flutter" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/react.svg" alt="React" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/firebase.svg" alt="React" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/prettier.svg" alt="Prettier" width="50" height="50">
+> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/nodejs-icon.svg" alt="NodeJS" width="50" height="50">
 > </p>
 
 ## Stats
