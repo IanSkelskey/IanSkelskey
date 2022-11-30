@@ -4,9 +4,10 @@ My name is Ian Skelskey. I am a software engineering student at Arizona State Un
 
 ![Profile Viewe Counter](https://komarev.com/ghpvc/?username=IanSkelskey&color=blue&style=for-the-badge)
 
-- 🔭 I’m currently working on ... my Capstone project.
-- 🌱 I’m currently learning ... JavaScript, React, Firebase, Firestore
-- 👯 I’m looking to collaborate on ... games and apps.
+- 🔭 I’m currently working on my Capstone project.
+- 🌱 I’m currently learning JavaScript, React, Firebase, Firestore
+- 👯 I’m looking to collaborate on games and apps.
+- ⚡ Fun fact: I'm the current supplemental instruction leader for SER321: Distributed Software Systems at Arizona State University. 
 
 > ### OS
 > <p>
