@@ -1,78 +1,50 @@
-### Welcome to my GitHub 👋
+### Hello, I'm Ian Skelskey 👋
 
-My name is Ian Skelskey. I am a software engineering student at Arizona State University graduating in Summer of 2023.
+I'm a software engineering student set to graduate from Arizona State University in October 2023. I'm passionate about coding, game development, and building impactful projects. 
 
-![Profile Viewe Counter](https://komarev.com/ghpvc/?username=IanSkelskey&color=blue&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=IanSkelskey&color=blue&style=for-the-badge)
 
-- 🔭 I’m currently working on my Capstone project.
-- 🌱 I’m currently building web applications with JavaScript, React, NextJS, and TailwindCSS.
-  - Websites are deployed using Firebase, Firestore, and Vercel.
-- 👯 I’m looking to collaborate on games and apps.
-- ⚡ Fun fact: I'm the current supplemental instruction leader for SER321: Distributed Software Systems at Arizona State University. 
+#### 🎯 Goals
 
-> ### OS
-> <p>
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/microsoft-windows.svg" alt="Windows" width="50" height="50">
-> <img src="https://user-images.githubusercontent.com/46094112/184930367-de6c2678-c847-40de-a414-0e717625b503.png" alt="Android" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/debian.svg" alt="Debian" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/ubuntu.svg" alt="Ubuntu" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/apple.svg" alt="Apple" width="50" height="50">
-> </p>
+- Actively seeking software engineering/app developer positions starting in October 2023.
+- Completing CS50's Introduction to Game Development course by December 2023.
 
-> ### Programming Languages
-> <p>
->     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/java.svg" alt="Java" width="50" height="50">
->     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/javascript.svg" alt="JavaScript" width="50" height="50">
->     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/c.svg" alt="C" width="50" height="50">
->     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/c-plusplus.svg" alt="C++" width="50" height="50">
->     <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/dart.svg" alt="Dart" width="50" height="50">
-> </p>
+#### 👨‍💻 Technologies
 
-> ### Query Languages
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/mysql.svg" alt="MySQL" width="50" height="50">
+- **Web Development**: JavaScript, React, NextJS
+- **Database**: Firestore, MySQL
+- **Deployment**: Firebase, Vercel
 
-> ### IDE
-> <p>
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/intellij-idea.svg" alt="IntelliJ" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50" height="50">
-> </p>
+#### 🛠 Tools
 
-> ### Version Control
-> <p>
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/git-icon.svg" alt="Git" width="50" height="50">  
-> </p>
+- **IDEs**: IntelliJ, Visual Studio Code
+- **Version Control**: Git
 
-> ### Miscellaneous
-> <p>
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/aws.svg" alt="Amazon Web Services" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/flutter.svg" alt="Flutter" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/react.svg" alt="React" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/firebase.svg" alt="React" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/prettier.svg" alt="Prettier" width="50" height="50">
-> <img src="https://raw.githubusercontent.com/IanSkelskey/geticon/master/icons/nodejs-icon.svg" alt="NodeJS" width="50" height="50">
-> </p>
+#### 🎮 Current Learning Journey
 
-## Stats
+- Taking up roles such as supplemental instruction leader for SER321: Distributed Software Systems at Arizona State University.
+- Enrolled in CS50's Introduction to Game Development offered through Harvard and edX.
+
+#### 🎨 Visual Arts & Design
+
+I have a keen interest in drawing and design. I was part of a team that worked on the community-driven retexturing project for Zelda Ocarina of Time, specifically "Zelda Ocarina of Time Community Retexture V7". My contributions include designing menu and HUD elements.
+
+- [EmuTalk Project Thread](https://www.emutalk.net/threads/zelda-ocarina-of-time-community-retexture-project-v7.55307/)
+- [Hosted on Emulation King](https://emulationking.com/loz-ocarina-of-time-community-retexture/)
+- [Featured Video by Hydef Hyde](https://www.youtube.com/watch?v=ommmSq5YeXE&t=13s)
+
+
+#### ⚡ Fun Fact
+
+I enjoy writing and playing music in my free time. I'm proficient in guitar and piano, and I love to sing.
+
+## 📈 Stats
+
 ![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ianskelskey&theme=darcula&langs_count=4&card_width=500)
 
 ![User Statistics](https://github-readme-stats.vercel.app/api?username=ianskelskey&show_icons=true&count_private=true&theme=darcula&card_width=500)
 
-
+---
 - [Get Icon](https://github.com/get-icon/geticon)
 - [Profile View Counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**IanSkelskey/IanSkelskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
