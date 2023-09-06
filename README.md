@@ -1,6 +1,6 @@
 ### Hello, I'm Ian Skelskey 👋
 
-I'm a software engineering student set to graduate from Arizona State University in October 2023. I'm passionate about coding, game development, and building impactful projects. 
+I'm a software engineering student set to graduate from Arizona State University in October 2023. I'm passionate about coding, game development, and building impactful projects.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IanSkelskey&color=blue&style=for-the-badge)
 
@@ -12,8 +12,9 @@ I'm a software engineering student set to graduate from Arizona State University
 #### 👨‍💻 Technologies
 
 - **Web Development**: JavaScript, React, NextJS
+- **Game Development**: Lua, Love2D
 - **Database**: Firestore, MySQL
-- **Deployment**: Firebase, Vercel
+- **Deployment**: AWS, Firebase
 
 #### 🛠 Tools
 
@@ -33,7 +34,6 @@ I have a keen interest in drawing and design. I was part of a team that worked o
 - [Hosted on Emulation King](https://emulationking.com/loz-ocarina-of-time-community-retexture/)
 - [Featured Video by Hydef Hyde](https://www.youtube.com/watch?v=ommmSq5YeXE&t=13s)
 
-
 #### ⚡ Fun Fact
 
 I enjoy writing and playing music in my free time. I'm proficient in guitar and piano, and I love to sing.
@@ -45,6 +45,3 @@ I enjoy writing and playing music in my free time. I'm proficient in guitar and 
 ![User Statistics](https://github-readme-stats.vercel.app/api?username=ianskelskey&show_icons=true&count_private=true&theme=darcula&card_width=500)
 
 ---
-- [Get Icon](https://github.com/get-icon/geticon)
-- [Profile View Counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
