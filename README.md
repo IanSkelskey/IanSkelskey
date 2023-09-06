@@ -1,6 +1,6 @@
 ### Hello, I'm Ian Skelskey 👋
 
-I'm a software engineering student set to graduate from Arizona State University in October 2023. I'm passionate about coding, game development, and building impactful projects.
+I'm a software engineering student set to graduate from Arizona State University in October 2023. I hold an associate's degree in computer science/mathematics from Tunxis Community College. I'm passionate about coding, game development, and building impactful projects.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IanSkelskey&color=blue&style=for-the-badge)
 
@@ -24,6 +24,7 @@ I'm a software engineering student set to graduate from Arizona State University
 #### 🎮 Current Learning Journey
 
 - Taking up roles such as supplemental instruction leader for SER321: Distributed Software Systems at Arizona State University.
+- Tutoring computer science and mathematics at Tunxis Community College. Subjects include algebra, stats, calculus, Python, Visual Basic, Java, and C++.
 - Enrolled in CS50's Introduction to Game Development offered through Harvard and edX.
 
 #### 🎨 Visual Arts & Design
