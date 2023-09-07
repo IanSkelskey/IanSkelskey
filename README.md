@@ -28,13 +28,13 @@ I'm a software engineering student set to graduate from Arizona State University
 - Tutoring computer science and mathematics at Tunxis Community College. Subjects include algebra, stats, calculus, Python, Visual Basic, Java, and C++.
 - Enrolled in CS50's Introduction to Game Development offered through Harvard and edX.
 
-#### 🌿 Field Day Project
+#### 🦎 Field Day Project
 
 I'm actively maintaining the Field Day Project, a comprehensive data collection and management tool geared towards aiding wildlife researchers and conservationists in Arizona. Dr. Heather Bateman, a biology professor at ASU, sponsors the project. The tech stack for this project includes JavaScript, React, Tailwind, Firestore, Firebase, and Framer Motion.
 
-#### 🎨 Visual Arts & Design
+#### ⚔️ Ocarina of Time Community Retexture V7
 
-I have a keen interest in drawing and design. I was part of a team that worked on the community-driven retexturing project for Zelda Ocarina of Time, specifically "Zelda Ocarina of Time Community Retexture V7". My contributions include designing menus and HUD elements.
+I was part of a team that worked on the community-driven retexturing project for Zelda Ocarina of Time, specifically "Zelda Ocarina of Time Community Retexture V7". My contributions include designing menus and HUD elements.
 
 - [EmuTalk Project Thread](https://www.emutalk.net/threads/zelda-ocarina-of-time-community-retexture-project-v7.55307/)
 - [Hosted on Emulation King](https://emulationking.com/loz-ocarina-of-time-community-retexture/)
