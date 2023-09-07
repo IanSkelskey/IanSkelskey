@@ -28,6 +28,8 @@ I'm a software engineering student set to graduate from Arizona State University
 - Tutoring computer science and mathematics at Tunxis Community College. Subjects include algebra, stats, calculus, Python, Visual Basic, Java, and C++.
 - Enrolled in CS50's Introduction to Game Development offered through Harvard and edX.
 
+### Projects
+
 #### 🦎 Field Day Project
 
 I'm actively maintaining the Field Day Project, a comprehensive data collection and management tool geared towards aiding wildlife researchers and conservationists in Arizona. Dr. Heather Bateman, a biology professor at ASU, sponsors the project. The tech stack for this project includes JavaScript, React, Tailwind, Firestore, Firebase, and Framer Motion.
