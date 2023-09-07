@@ -11,7 +11,7 @@ I'm a software engineering student set to graduate from Arizona State University
 
 #### 👨‍💻 Technologies
 
-- **Web Development**: JavaScript, React, NextJS
+- **Web Development**: JavaScript, React, NextJS, Tailwind CSS
 - **Game Development**: Lua, Love2D
 - **Database**: Firestore, MySQL
 - **Deployment**: AWS, Firebase
@@ -19,7 +19,8 @@ I'm a software engineering student set to graduate from Arizona State University
 #### 🛠 Tools
 
 - **IDEs**: IntelliJ, Visual Studio Code
-- **Version Control**: Git
+- **Code Formatting**: Prettier
+- **Version Control**: Git, GitHub
 
 #### 🎮 Current Learning Journey
 
