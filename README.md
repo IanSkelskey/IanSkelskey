@@ -34,6 +34,8 @@ I'm a software engineering student set to graduate from Arizona State University
 
 I'm actively maintaining the Field Day Project, a comprehensive data collection and management tool geared towards aiding wildlife researchers and conservationists in Arizona. Dr. Heather Bateman, a biology professor at ASU, sponsors the project. The tech stack for this project includes JavaScript, React, Tailwind, Firestore, Firebase, and Framer Motion.
 
+[Visit the Field Day Organization for more information.](https://github.com/Field-Day-2022)
+
 #### ⚔️ Ocarina of Time Community Retexture V7
 
 I was part of a team that worked on the community-driven retexturing project for Zelda Ocarina of Time, specifically "Zelda Ocarina of Time Community Retexture V7". My contributions include designing menus and HUD elements.
