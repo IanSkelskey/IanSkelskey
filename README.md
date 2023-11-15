@@ -8,6 +8,7 @@ I'm a software engineering student set to graduate from Arizona State University
 
 - Actively seeking software engineering/app developer positions starting in October 2023.
 - Completing CS50's Introduction to Game Development course by December 2023.
+- Aiming to have a successful holiday toy drive this year.
 
 #### 👨‍💻 Technologies
 
@@ -29,6 +30,12 @@ I'm a software engineering student set to graduate from Arizona State University
 - Enrolled in CS50's Introduction to Game Development offered through Harvard and edX.
 
 ### Projects
+
+#### 🎁 Holiday Toy Drive for Connecticut Children's Medical Center
+
+I developed a vibrant and interactive website for organizing and participating in toy drives. The website is built with React, styled using Tailwind CSS, and animated with Framer Motion, ensuring a user-friendly experience. The repository is public in hopes that other fundraisers may be able to utilize it as a template or inspiration.
+
+[Check out the code!](https://github.com/IanSkelskey/toy.drive)
 
 #### 🦎 Field Day Project
 
