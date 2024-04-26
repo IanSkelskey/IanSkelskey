@@ -13,7 +13,7 @@ I'm a software engineer and creative living in Connecticut. I have a B.S. in sof
 #### 👨‍💻 Technologies
 
 - **Web Development**: JavaScript, React, NextJS, Tailwind CSS
-- **Game Development**: Lua, Love2D
+- **Game Development**: Lua, Love2D, Godot
 - **Database**: Firestore, MySQL
 - **Deployment**: AWS, Firebase
 
