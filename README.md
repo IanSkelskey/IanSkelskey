@@ -1,65 +1,56 @@
 ### Hello, I'm Ian Skelskey 👋
 
-I'm a software engineer and creative living in Connecticut. I have a B.S. in software engineering from Arizona State University and an A.S. in computer science and mathematics from CT State Tunxis. I've always had a strong interest in video games, leading me to explore game design and development. Right now, I'm focused on creating games using Love2D and Lua and web apps with React. I'm looking to join a company that values creativity and innovation. I hope you find my portfolio engaging and reflective of my skills.
+I'm a freelance software engineer based in Connecticut, specializing in game development and web applications. Currently, I'm developing MIDI music visualization software using the Godot engine for my clients. With a B.S. in Software Engineering from Arizona State University and an A.S. in Computer Science and Mathematics from CT State Tunxis, I combine technical proficiency with creative flair in all my projects.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=IanSkelskey&color=blue&style=for-the-badge)
+### 🎯 Current Focus
 
-#### 🎯 Goals
+- Providing freelance software services, with a focus on game development using Godot and web applications.
+- Actively seeking new opportunities where creativity and innovation are valued.
 
-- Actively seeking software engineering/app developer positions.
-- Completing CS50's Introduction to Game Development course.
-- Completing my online portfolio [here](https://ianskelskey.github.io/).
+### 👨‍💻 Tools & Technologies
 
-#### 👨‍💻 Technologies
+| Category | Technologies |
+| --- | --- |
+| 🌐 Web Development | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) |
+| 🎮 Game Development | ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Love2D](https://img.shields.io/badge/-Love2D-hotpink?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0xMiAyMGExIDEgMCAwIDEtLjQzNy0uMUMxMS4yMTQgMTkuNzMgMyAxNS42NzEgMyA5YTUgNSAwIDAgMSA4LjUzNS0zLjUzNmwuNDY1LjQ2NS40NjUtLjQ2NUE1IDUgMCAwIDEgMjEgOWMwIDYuNjQ2LTguMjEyIDEwLjcyOC04LjU2MiAxMC45QTEgMSAwIDAgMSAxMiAyMHoiLz4KPC9zdmc+&logoColor=white) |
+| 🖥️ Languages | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 🛠️ Tools | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-black?style=for-the-badge&logo=prettier&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
-- **Web Development**: JavaScript, React, NextJS, Tailwind CSS
-- **Game Development**: Lua, Love2D, Godot
-- **Database**: Firestore, MySQL
-- **Deployment**: AWS, Firebase
+### 🎮 Current Learning Journey
 
-#### 🛠 Tools
-
-- **IDEs**: IntelliJ, Visual Studio Code
-- **Code Formatting**: Prettier
-- **Version Control**: Git, GitHub
-
-#### 🎮 Current Learning Journey
-
-- Tutoring computer science and mathematics at Tunxis Community College. Subjects include algebra, stats, calculus, Python, Visual Basic, Java, and C++.
-- Enrolled in CS50's Introduction to Game Development offered through Harvard and edX.
+- Continuously enhancing my skills in game development and interactive media.
+- Enrolled in CS50's Introduction to Game Development through Harvard and edX, progressing at my own pace.
+- Studying the Spanish language to broaden my communication skills.
 
 ### Projects
 
 #### 🎁 Holiday Toy Drive for Connecticut Children's Medical Center
 
-I developed a vibrant and interactive website for organizing and participating in toy drives. The website is built with React, styled using Tailwind CSS, and animated with Framer Motion, ensuring a user-friendly experience. The repository is public in hopes that other fundraisers may be able to utilize it as a template or inspiration.
+![Toy Drive Logo](toy-drive.png)
+
+Developed a vibrant and interactive website for organizing and participating in toy drives. Built with React and styled using Tailwind CSS.
 
 [Visit the website!](https://ianskelskey.github.io/toy.drive/)
-
 [Check out the code!](https://github.com/IanSkelskey/toy.drive)
 
 #### 🦎 Field Day Project
 
-I'm actively maintaining the Field Day Project, a comprehensive data collection and management tool geared towards aiding wildlife researchers and conservationists in Arizona. Dr. Heather Bateman, a biology professor at ASU, sponsors the project. The tech stack for this project includes JavaScript, React, Tailwind, Firestore, Firebase, and Framer Motion.
+![Web UI Mockup](field-day-web-ui-mockup.png)
 
-[Visit the Field Day Organization for more information.](https://github.com/Field-Day-2022)
+A comprehensive data collection and management tool for wildlife researchers in Arizona, sponsored by Dr. Heather Bateman from ASU.
+
+[More about Field Day](https://github.com/Field-Day-2022)
 
 #### ⚔️ Ocarina of Time Community Retexture V7
 
-I was part of a team that worked on the community-driven retexturing project for Zelda Ocarina of Time, specifically "Zelda Ocarina of Time Community Retexture V7". My contributions include designing menus and HUD elements.
+![Ocarina of Time Retexture](ocarina-of-time-retexture.png)
 
-- [EmuTalk Project Thread](https://www.emutalk.net/threads/zelda-ocarina-of-time-community-retexture-project-v7.55307/)
+Contributed to the community-driven retexturing project for Zelda: Ocarina of Time.
+
+- [Project Thread on EmuTalk](https://www.emutalk.net/threads/zelda-ocarina-of-time-community-retexture-project-v7.55307/)
 - [Hosted on Emulation King](https://emulationking.com/loz-ocarina-of-time-community-retexture/)
 - [Featured Video by Hydef Hyde](https://www.youtube.com/watch?v=ommmSq5YeXE&t=13s)
 
 #### ⚡ Fun Fact
 
-I enjoy writing and playing music in my free time. I'm proficient in guitar and piano, and I love to sing.
-
-## 📈 Stats
-
-![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ianskelskey&theme=darcula&langs_count=4&card_width=500)
-
-![User Statistics](https://github-readme-stats.vercel.app/api?username=ianskelskey&show_icons=true&count_private=true&theme=darcula&card_width=500)
-
----
+I enjoy writing and playing music in my spare time, proficient in guitar and piano.
