@@ -1,6 +1,6 @@
 ### Hello, I'm Ian Skelskey 👋
 
-I'm a freelance software engineer based in Connecticut, specializing in game development and web applications. Currently, I'm developing MIDI music visualization software using the Godot engine for my clients. With a B.S. in Software Engineering from Arizona State University and an A.S. in Computer Science and Mathematics from CT State Tunxis, I combine technical proficiency with creative flair in all my projects.
+I'm a freelance software engineer based in Connecticut, specializing in game development and web applications. Currently, I'm developing MIDI software for the Godot engine and for web for my clients. With a B.S. in Software Engineering from Arizona State University and an A.S. in Computer Science and Mathematics from CT State Tunxis, I combine technical proficiency with creative flair in all my projects.
 
 ### 🎯 Current Focus
 
