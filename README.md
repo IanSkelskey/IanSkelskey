@@ -1,63 +1,97 @@
-### Hello, I'm Ian Skelskey 👋
+# Hello, I'm Ian Skelskey 👋
 
-I'm a software engineer based in Connecticut. I have recently accepted a position at Bibliomation Inc. as an Evergreen Systems Specialist. My role involves maintaining a system built upon the open-source app [Evergreen](https://github.com/evergreen-library-system/Evergreen). With a B.S. in Software Engineering from Arizona State University and an A.S. in Computer Science and Mathematics from CT State Tunxis, I combine technical proficiency with creative flair in all my projects.
+I'm a software engineer based in Connecticut. I currently work as an Evergreen Systems Specialist at Bibliomation Inc., where I manage and contribute to the open-source Evergreen ILS, a robust library system serving Connecticut's largest library consortium. With a B.S. in Software Engineering from Arizona State University and an A.S. in Computer Science and Mathematics from CT State Tunxis, I combine technical expertise with a passion for creative problem-solving and continuous learning.
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
-- Maintaining and improving the Evergreen library system.
-- Revisitng my artistic roots and updating my DeviantArt account, [IanSkelskey](https://www.deviantart.com/ianskelskey), after 10 years.
-- Developing [ai_diff_commit](https://github.com/IanSkelskey/ai-diff-commit), a tool that uses AI and the conventional commit standard to automate my commit message writing.
-- Actively seeking new opportunities where creativity and innovation are valued.
+- Maintaining and improving the Evergreen Integrated Library System (ILS).
+  - I now have code and documentation included in four minor releases: [3.11](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_11.html), [3.12](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_12.html), [3.13](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html), and [3.14](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html).
+- Developing [evergit](https://github.com/IanSkelskey/evergit), a globally deployable npm tool for automating commit messages in Evergreen repositories. Easily install it using `npm install -g evergit` and run it in any Git repository.
+- Reconnecting with my artistic roots and updating my DeviantArt account, [IanSkelskey](https://www.deviantart.com/ianskelskey), after a decade.
 
-### 👨‍💻 Tools & Technologies
+## 🛠️ Tech Stack
 
-#### Web Development
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%23404d59.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-#### Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Perl](https://img.shields.io/badge/perl-%23404d59.svg?style=for-the-badge&logo=perl&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-#### Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-
-#### Development Environment
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📈 GitHub Stats
 
-### 🎮 Current Learning Journey
+<a href="https://github.com/IanSkelskey">
+	<img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=IanSkelskey&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/IanSkelskey">
+	<img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanSkelskey&layout=compact&theme=dark&hide=lua,sql,json,visualbasic" />
+</a>
 
-- Expanding my skillset to include tech related to Evergreen, such as PostgreSQL, Perl, and Angular.
-- Enrolled in CS50's Introduction to Game Development through Harvard and edX, progressing at my own pace.
-- Studying the Spanish language to broaden my communication skills.
+## 🎮 Current Learning Journey
 
-### Featured Project
+- Expanding my expertise with technologies related to Evergreen, including PostgreSQL, Perl, and Angular.
+- Completing Harvard's CS50 Introduction to Game Development on edX at my own pace.
+- Studying Spanish to broaden my communication skills.
+- Supporting the 2024 Field Day capstone team at ASU by providing technical guidance and support.
 
-#### 🦎 Field Day
+## Featured Projects
+
+### 🌲 Evergreen Integrated Library System (ILS)
+
+A comprehensive open-source library system supporting large-scale library consortia. Learn more on the [Evergreen Website](https://evergreen-ils.org/).
+
+Contributed docs, features and fixes in the following releases:
+
+[![Evergreen 3.11](https://img.shields.io/badge/Evergreen-3.11-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_11.html)
+[![Evergreen 3.12](https://img.shields.io/badge/Evergreen-3.12-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_12.html)
+[![Evergreen 3.13](https://img.shields.io/badge/Evergreen-3.13-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html)
+[![Evergreen 3.14](https://img.shields.io/badge/Evergreen-3.14-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html)
+
+<a href="https://github.com/evergreen-library-system/Evergreen">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evergreen-library-system&repo=Evergreen&theme=dark" height=100/>
+</a>
+
+### 🛠️ `evergit`
+
+[![evergit npm](https://img.shields.io/npm/v/evergit?color=blue&label=npm)](https://www.npmjs.com/package/evergit)
+[![evergit Repository](https://img.shields.io/github/stars/IanSkelskey/evergit?style=social)](https://github.com/IanSkelskey/evergit)
+
+A CLI tool to streamline commit message generation for Evergreen code contributions. **Install globally**:
+
+```bash
+npm install -g evergit
+```
+
+<a href="https://github.com/IanSkelskey/evergit">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IanSkelskey&repo=evergit&theme=dark" height=120/>
+</a>
+
+#### Usage
+
+1. Navigate to any Git repository.
+2. Run `evergit commit` in the terminal.
+
+Explore the tool on [npm](https://www.npmjs.com/package/evergit)
+
+> Requires an OpenAI API key to generate commit messages. A Launchpad account is not required, but recommended. Commit messages will be written based on the context prvided by the Launchpad ticket.
+
+### 🦎 Field Day
 
 ![Web UI Mockup](field-day-web-ui-mockup.png)
 
 A comprehensive data collection and management tool for wildlife researchers in Arizona, sponsored by Dr. Heather Bateman from ASU.
 
-[More about Field Day](https://github.com/Field-Day-2022)
+Visit the [Field Day Organization](https://github.com/Field-Day-2022) for more information.
 
-#### ⚡ Fun Fact
+#### Field Day Repositories
 
-I enjoy writing and playing music in my spare time, proficient in guitar and piano.
+<a href="https://github.com/Field-Day-2022/desktop-data-manager">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Field-Day-2022&repo=desktop-data-manager&theme=dark" height=100/>
+</a>
+<a href="https://github.com/Field-Day-2022/mobile-data-collector">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Field-Day-2022&repo=mobile-data-collector&theme=dark" height=100/>
+</a>
+
+## ⚡ Fun Fact
+I enjoy writing and playing music in my spare time and am proficient in guitar and piano.
