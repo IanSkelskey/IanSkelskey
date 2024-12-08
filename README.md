@@ -48,10 +48,6 @@ Contributed docs, features and fixes in the following releases:
 [![Evergreen 3.13](https://img.shields.io/badge/Evergreen-3.13-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html)
 [![Evergreen 3.14](https://img.shields.io/badge/Evergreen-3.14-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html)
 
-<a href="https://github.com/evergreen-library-system/Evergreen">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evergreen-library-system&repo=Evergreen&theme=dark" height=100/>
-</a>
-
 ### 🛠️ `evergit`
 
 [![evergit npm](https://img.shields.io/npm/v/evergit?color=blue&label=npm)](https://www.npmjs.com/package/evergit)
@@ -63,16 +59,12 @@ A CLI tool to streamline commit message generation for Evergreen code contributi
 npm install -g evergit
 ```
 
-<a href="https://github.com/IanSkelskey/evergit">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IanSkelskey&repo=evergit&theme=dark" height=120/>
-</a>
-
 #### Usage
 
 1. Navigate to any Git repository.
 2. Run `evergit commit` in the terminal.
 
-Explore the tool on [npm](https://www.npmjs.com/package/evergit)
+Explore the tool on [npm](https://www.npmjs.com/package/evergit) or [GitHub](https://github.com/IanSkelskey/evergit).
 
 > Requires an OpenAI API key to generate commit messages. A Launchpad account is not required, but recommended. Commit messages will be written based on the context prvided by the Launchpad ticket.
 
@@ -83,15 +75,6 @@ Explore the tool on [npm](https://www.npmjs.com/package/evergit)
 A comprehensive data collection and management tool for wildlife researchers in Arizona, sponsored by Dr. Heather Bateman from ASU.
 
 Visit the [Field Day Organization](https://github.com/Field-Day-2022) for more information.
-
-#### Field Day Repositories
-
-<a href="https://github.com/Field-Day-2022/desktop-data-manager">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Field-Day-2022&repo=desktop-data-manager&theme=dark" height=100/>
-</a>
-<a href="https://github.com/Field-Day-2022/mobile-data-collector">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Field-Day-2022&repo=mobile-data-collector&theme=dark" height=100/>
-</a>
 
 ## ⚡ Fun Fact
 I enjoy writing and playing music in my spare time and am proficient in guitar and piano.
