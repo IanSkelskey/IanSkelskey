@@ -66,7 +66,7 @@ npm install -g evergit
 
 Explore the tool on [npm](https://www.npmjs.com/package/evergit) or [GitHub](https://github.com/IanSkelskey/evergit).
 
-> Requires an OpenAI API key to generate commit messages. A Launchpad account is not required, but recommended. Commit messages will be written based on the context prvided by the Launchpad ticket.
+> Requires an OpenAI API key to generate commit messages. A Launchpad account is not required but is recommended. Commit messages will be written based on the context provided by the Launchpad ticket.
 
 ### 🦎 Field Day
 
