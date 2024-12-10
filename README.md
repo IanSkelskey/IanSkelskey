@@ -28,7 +28,7 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 	<img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanSkelskey&layout=compact&theme=dark&hide=lua,sql,json,visualbasic" />
 </a>
 
-## 🎮 Current Learning Journey
+## 🧑‍🎓 Current Learning Journey
 
 - Expanding my expertise with technologies related to Evergreen, including PostgreSQL, Perl, and Angular.
 - Completing Harvard's CS50 Introduction to Game Development on edX at my own pace.
