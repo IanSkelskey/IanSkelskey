@@ -4,9 +4,10 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 
 ## 🎯 Current Focus
 
-- Maintaining and improving the Evergreen Integrated Library System (ILS).
-  - I now have code and documentation included in four minor releases: [3.11](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_11.html), [3.12](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_12.html), [3.13](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html), and [3.14](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html).
-- Developing [evergit](https://github.com/IanSkelskey/evergit), a globally deployable npm tool for automating commit messages in Evergreen repositories. Easily install it using `npm install -g evergit` and run it in any Git repository.
+- Maintaining and improving the Evergreen Integrated Library System (ILS), Connecticut's largest library consortium platform.
+  - I now have code and documentation included in five minor releases: [3.11](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_11.html), [3.12](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_12.html), [3.13](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html), [3.14](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html), and [3.15](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_15.html).
+- Game development using Godot Engine, creating reusable addons for audio management and state machines.
+- Integrating the 2024 Field Day capstone team's contributions into the existing codebase.
 - Reconnecting with my artistic roots and updating my DeviantArt account, [IanSkelskey](https://www.deviantart.com/ianskelskey), after a decade.
 
 ## 🛠️ Tech Stack
@@ -18,6 +19,7 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -30,10 +32,10 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 
 ## 🧑‍🎓 Current Learning Journey
 
-- Expanding my expertise with technologies related to Evergreen, including PostgreSQL, Perl, and Angular.
-- Completing Harvard's CS50 Introduction to Game Development on edX at my own pace.
+- Advancing my expertise with Evergreen's technology stack: PostgreSQL, Perl, and Angular.
+- Developing game mechanics and systems with Godot Engine and GDScript.
 - Studying Spanish to broaden my communication skills.
-- Supporting the 2024 Field Day capstone team at ASU by providing technical guidance and support.
+- Supporting the 2024 Field Day capstone team at ASU by providing technical guidance and codebase integration.
 
 ## Featured Projects
 
@@ -47,34 +49,35 @@ Contributed docs, features and fixes in the following releases:
 [![Evergreen 3.12](https://img.shields.io/badge/Evergreen-3.12-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_12.html)
 [![Evergreen 3.13](https://img.shields.io/badge/Evergreen-3.13-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html)
 [![Evergreen 3.14](https://img.shields.io/badge/Evergreen-3.14-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html)
+[![Evergreen 3.15](https://img.shields.io/badge/Evergreen-3.15-brightgreen)](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_15.html)
 
-### 🛠️ `evergit`
+### 🎮 Godot Game Development
 
-[![evergit npm](https://img.shields.io/npm/v/evergit?color=blue&label=npm)](https://www.npmjs.com/package/evergit)
-[![evergit Repository](https://img.shields.io/github/stars/IanSkelskey/evergit?style=social)](https://github.com/IanSkelskey/evergit)
+Currently developing reusable addons for the Godot game engine:
+- Audio Manager: A comprehensive system for handling game audio, sound effects, and music.
+- State Machine: A robust implementation for managing game object states and transitions.
 
-A CLI tool to streamline commit message generation for Evergreen code contributions. **Install globally**:
+These addons are designed to be used across multiple game projects to streamline development.
 
-```bash
-npm install -g evergit
-```
+### 🎮 PS2 Cover Art
 
-#### Usage
+[![PS2 Covers Repository](https://img.shields.io/github/stars/xlenore/ps2-covers?style=social)](https://github.com/xlenore/ps2-covers)
 
-1. Navigate to any Git repository.
-2. Run `evergit commit` in the terminal.
-
-Explore the tool on [npm](https://www.npmjs.com/package/evergit) or [GitHub](https://github.com/IanSkelskey/evergit).
-
-> Requires an OpenAI API key to generate commit messages. A Launchpad account is not required but is recommended. Commit messages will be written based on the context provided by the Launchpad ticket.
+Contributed PlayStation 2 cover art and corrections to a community-maintained repository of high-quality PS2 cover images for emulation and preservation purposes.
 
 ### 🦎 Field Day
 
 ![Web UI Mockup](field-day-web-ui-mockup.png)
 
-A comprehensive data collection and management tool for wildlife researchers in Arizona, sponsored by Dr. Heather Bateman from ASU.
+A comprehensive data collection and management tool for wildlife researchers in Arizona, sponsored by Dr. Heather Bateman from ASU. Currently integrating the 2024 capstone team's contributions into the main codebase.
 
 Visit the [Field Day Organization](https://github.com/Field-Day-2022) for more information.
+
+### 🛠️ `evergit`
+
+[![evergit npm](https://img.shields.io/npm/v/evergit?color=blue&label=npm)](https://www.npmjs.com/package/evergit)
+
+A CLI tool to streamline commit message generation for Evergreen code contributions.
 
 ## ⚡ Fun Fact
 I enjoy writing and playing music in my spare time and am proficient in guitar and piano.
