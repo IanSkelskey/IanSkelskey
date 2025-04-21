@@ -65,7 +65,7 @@ These addons are designed to be used across multiple game projects to streamline
 
 Contributed PlayStation 2 cover art and corrections to a community-maintained repository of high-quality PS2 cover images for emulation and preservation purposes.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 100%;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 100%; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPM-66205.png" alt="PS2 Cover" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPM-66848.png" alt="PS2 Cover" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPS-25675.png" alt="PS2 Cover" width="100">
@@ -75,7 +75,6 @@ Contributed PlayStation 2 cover art and corrections to a community-maintained re
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20077.png" alt="PS2 Cover" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20743.png" alt="PS2 Cover" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20484.png" alt="Devil May Cry 2 Disc 1" width="100">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20627.png" alt="Devil May Cry 2 Disc 2" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20510.png" alt="Star Wars: The Clone Wars" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-21644.png" alt="Spongebob Atlantis Squarepantis" width="100">
   <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20649.png" alt="PS2 Cover" width="100">
