@@ -66,22 +66,22 @@ These addons are designed to be used across multiple game projects to streamline
 Contributed PlayStation 2 cover art and corrections to a community-maintained repository of high-quality PS2 cover images for emulation and preservation purposes.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 100%; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPM-66205.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-21644.png" alt="Spongebob Atlantis Squarepantis" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/f4a1b88321ea6ac77340b52d3a289892a84d55d9/covers/3d/SCES-54206.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/f709713e8f6b5dc459d50dfdf2eb82c576e4a167/covers/3d/SLUS-21931.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20077.png" alt="PS2 Cover" height="200">
-  <img src="https://github.com/IanSkelskey/ps2-covers/blob/papx90516-pbpx95203/covers/default/PAPX-90516.jpg?raw=true" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPM-66848.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPS-25675.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20649.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLES-50193.png" alt="PS2 Cover" height="200">
-  <img src="https://github.com/IanSkelskey/ps2-covers/blob/papx90516-pbpx95203/covers/default/PBPX-95203.jpg?raw=true" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLES-50037.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-21410.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20743.png" alt="PS2 Cover" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20484.png" alt="Devil May Cry 2 Disc 1" height="200">
-  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20510.png" alt="Star Wars: The Clone Wars" height="200">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPM-66205.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-21644.png" alt="Spongebob Atlantis Squarepantis" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/f4a1b88321ea6ac77340b52d3a289892a84d55d9/covers/3d/SCES-54206.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/f709713e8f6b5dc459d50dfdf2eb82c576e4a167/covers/3d/SLUS-21931.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20077.png" alt="PS2 Cover" height="175">
+  <img src="https://github.com/IanSkelskey/ps2-covers/blob/papx90516-pbpx95203/covers/default/PAPX-90516.jpg?raw=true" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPM-66848.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLPS-25675.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20649.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLES-50193.png" alt="PS2 Cover" height="175">
+  <img src="https://github.com/IanSkelskey/ps2-covers/blob/papx90516-pbpx95203/covers/default/PBPX-95203.jpg?raw=true" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLES-50037.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-21410.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20743.png" alt="PS2 Cover" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20484.png" alt="Devil May Cry 2 Disc 1" height="175">
+  <img src="https://raw.githubusercontent.com/xlenore/ps2-covers/3ffe3965be8fb632f94723186295a5a5e8ce482b/covers/3d/SLUS-20510.png" alt="Star Wars: The Clone Wars" height="175">
 </div>
 
 ### 🦎 Field Day
