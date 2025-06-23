@@ -41,6 +41,8 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 
 ### 🌲 Evergreen Integrated Library System (ILS)
 
+[![Evergreen Integrated Library System Repository](https://img.shields.io/github/stars/evergreen-library-system/Evergreen?style=social)](https://github.com/evergreen-library-system/Evergreen)
+
 A comprehensive open-source library system supporting large-scale library consortia. Learn more on the [Evergreen Website](https://evergreen-ils.org/).
 
 Contributed docs, features and fixes in the following releases:
