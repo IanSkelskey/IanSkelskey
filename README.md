@@ -21,6 +21,13 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+## 🎨 Creative Stack
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/IanSkelskey">
