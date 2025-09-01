@@ -116,7 +116,7 @@ Find more of my art on
 
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-%2305CC46.svg?style=for-the-badge&logo=deviantart&logoColor=white)](https://ianskelskey.deviantart.com/)
 
-<a href="https://www.deviantart.com/ianskelskey/art/Zelda-Fated-Trio-Pokemon-Gen-1-Trainer-Sprites-1224411501">
+<a href="https://www.deviantart.com/ianskelskey/art/Team-7-HG-SS-Sprite-Reimagining-1236860162">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28bd0b5e-96a8-43df-a260-4b48798361d5/dkge7eq-d38c4fcc-f340-472a-8c01-fb45acf6fae1.png/v1/fill/w_1280,h_569,q_80,strp/team_7___hg_ss_sprite_reimagining_by_ianskelskey_dkge7eq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4YmQwYjVlLTk2YTgtNDNkZi1hMjYwLTRiNDg3OTgzNjFkNVwvZGtnZTdlcS1kMzhjNGZjYy1mMzQwLTQ3MmEtOGMwMS1mYjQ1YWNmNmZhZTEucG5nIiwiaGVpZ2h0IjoiPD01NjkiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8yOGJkMGI1ZS05NmE4LTQzZGYtYTI2MC00YjQ4Nzk4MzYxZDVcL2lhbnNrZWxza2V5LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.Elv8QamQchmg-on6zsExm9MdmOIPdzk477Mgb8hi5SA" alt="Naruto Team 7 as Pokemon Generation IV Trainer Sprites" style="width:720px;" />
 </a>
 
