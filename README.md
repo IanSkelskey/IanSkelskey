@@ -30,12 +30,9 @@ I'm a software engineer based in Connecticut. I currently work as an Evergreen S
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/IanSkelskey">
-	<img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=IanSkelskey&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/IanSkelskey">
-	<img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanSkelskey&layout=compact&theme=dark&hide=lua,sql,json,visualbasic" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ianskelskey&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ianskelskey&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ianskelskey&theme=monokai&utcOffset=-5)
 
 ## 🧑‍🎓 Current Learning Journey
 
