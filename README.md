@@ -7,6 +7,7 @@ Software engineer in Connecticut. Evergreen Systems Specialist at Bibliomation I
 [![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://ianskelskey.itch.io/)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-%2305CC46.svg?style=for-the-badge&logo=deviantart&logoColor=white)](https://ianskelskey.deviantart.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pixelsbyian)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IanSkelskey)
 
 ---
 
