@@ -5,27 +5,14 @@
 Software engineer in Connecticut. Evergreen Systems Specialist at Bibliomation Inc., contributing to open-source library software serving Connecticut's largest library consortium. B.S. Software Engineering (ASU), A.S. Computer Science & Mathematics (CT State Tunxis).
 
 <p>
-  <a href="https://ianskelskey.github.io" title="Portfolio">
-    <img src="images/icons/portfolio.png" width="48" alt="Portfolio" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/ianskelskey/" title="LinkedIn">
-    <img src="images/icons/linkedin.png" width="48" alt="LinkedIn" style="margin: 0 8px;" />
-  </a>
-  <a href="https://ianskelskey.itch.io/" title="itch.io">
-    <img src="images/icons/itchio.png" width="48" alt="itch.io" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.lexaloffle.com/bbs/?uid=131852" title="Lexaloffle / PICO-8 BBS">
-    <img src="images/icons/pico-8.png" width="48" alt="PICO-8 / Lexaloffle" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.deviantart.com/ianskelskey" title="DeviantArt">
-    <img src="images/icons/deviantart.png" width="48" alt="DeviantArt" style="margin: 0 8px;" />
-  </a>
-  <a href="https://instagram.com/pixelsbyian" title="Instagram">
-    <img src="images/icons/instagram.png" width="48" alt="Instagram" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.youtube.com/@IanSkelskey" title="YouTube">
-    <img src="images/icons/youtube.png" width="48" alt="YouTube" style="margin: 0 8px;" />
-  </a>
+  <a href="https://ianskelskey.github.io" title="Portfolio"><img src="images/icons/portfolio.png" width="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ianskelskey" title="GitHub"><img src="images/icons/github.png" width="48" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ianskelskey/" title="LinkedIn"><img src="images/icons/linkedin.png" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://ianskelskey.itch.io/" title="itch.io"><img src="images/icons/itchio.png" width="48" alt="itch.io" /></a>&nbsp;&nbsp;
+  <a href="https://www.lexaloffle.com/bbs/?uid=131852" title="Lexaloffle / PICO-8 BBS"><img src="images/icons/pico-8.png" width="48" alt="PICO-8 / Lexaloffle" /></a>&nbsp;&nbsp;
+  <a href="https://www.deviantart.com/ianskelskey" title="DeviantArt"><img src="images/icons/deviantart.png" width="48" alt="DeviantArt" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/pixelsbyian" title="Instagram"><img src="images/icons/instagram.png" width="48" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@IanSkelskey" title="YouTube"><img src="images/icons/youtube.png" width="48" alt="YouTube" /></a>
 </p>
 
 ---
