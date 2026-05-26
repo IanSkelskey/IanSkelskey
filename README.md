@@ -4,9 +4,29 @@
 
 Software engineer in Connecticut. Evergreen Systems Specialist at Bibliomation Inc., contributing to open-source library software serving Connecticut's largest library consortium. B.S. Software Engineering (ASU), A.S. Computer Science & Mathematics (CT State Tunxis).
 
-[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://ianskelskey.itch.io/)
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-%2305CC46.svg?style=for-the-badge&logo=deviantart&logoColor=white)](https://ianskelskey.deviantart.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pixelsbyian)
+<p>
+  <a href="https://ianskelskey.github.io" title="Portfolio">
+    <img src="images/icons/portfolio.png" width="48" alt="Portfolio" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/ianskelskey/" title="LinkedIn">
+    <img src="images/icons/linkedin.png" width="48" alt="LinkedIn" style="margin: 0 8px;" />
+  </a>
+  <a href="https://ianskelskey.itch.io/" title="itch.io">
+    <img src="images/icons/itchio.png" width="48" alt="itch.io" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.lexaloffle.com/bbs/?uid=131852" title="Lexaloffle / PICO-8 BBS">
+    <img src="images/icons/pico-8.png" width="48" alt="PICO-8 / Lexaloffle" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.deviantart.com/ianskelskey" title="DeviantArt">
+    <img src="images/icons/deviantart.png" width="48" alt="DeviantArt" style="margin: 0 8px;" />
+  </a>
+  <a href="https://instagram.com/pixelsbyian" title="Instagram">
+    <img src="images/icons/instagram.png" width="48" alt="Instagram" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.youtube.com/@IanSkelskey" title="YouTube">
+    <img src="images/icons/youtube.png" width="48" alt="YouTube" style="margin: 0 8px;" />
+  </a>
+</p>
 
 ---
 
