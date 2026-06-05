@@ -44,7 +44,8 @@ My work includes backend/data workflows, SQL and PostgreSQL troubleshooting, ven
 [3.13](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_13.html) ·
 [3.14](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_14.html) ·
 [3.15](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_15.html) ·
-[3.16](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_16.html)
+[3.16](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_16.html) ·
+[3.17](https://evergreen-ils.org/documentation/release/RELEASE_NOTES_3_17.html)
 
 ---
 
