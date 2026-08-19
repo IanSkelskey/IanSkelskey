@@ -1,4 +1,4 @@
-![Banner image of scrolling pixel star field with text "Ian Skelskey" in front](images/banner.gif)
+![Banner image of a scrolling pixel star field with "Ian Skelskey — Software Engineer & Pixel Artist" in front](images/banner.webp)
 
 **Software engineer building systems, tools, and games.**
 
